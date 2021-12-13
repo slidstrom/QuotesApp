@@ -23,7 +23,7 @@ struct ContentView: View {
                     
                 }
                 
-            }.navigationTitle("Character Select")
+            }.navigationTitle("Character Select Menu")
         }
     }
 }
