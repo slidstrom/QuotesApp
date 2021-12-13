@@ -1,0 +1,231 @@
+[{
+        "name": "Fox",
+        "images": [
+            "foxicon",
+            "foxgiant"
+        ],
+        "smashAttacks": [
+            "Bicycle Kick",
+            "Butterfly Kick",
+            "Split Kick"
+        ],
+        "specialAbilities": [
+            "Fox Illusion",
+            "Fire Fox",
+            "Blaster",
+            "Shine"
+        ],
+        "colors": [
+            "Original",
+            "Black",
+            "Green",
+            "Red"
+        ],
+        "quotes": [
+            "Come On!"
+        ],
+        "colorImages":[
+            "fox1",
+            "fox2",
+            "fox3",
+            "fox4"
+        ]
+    },
+    {
+        "name": "Link",
+        "images": [
+            "linkicon",
+            "linkgiant"
+        ],
+        "smashAttacks": [
+            "Triple Slash",
+            "Double Down",
+            "Sword Slice / Double Sword Slice"
+        ],
+        "specialAbilities": [
+            "Bow and Arrows",
+            "Boomerang",
+            "Spin Attack",
+            "Remote Bomb"
+        ],
+        "colors": [
+            "Original",
+            "Dark",
+            "Hero",
+            "Skyward"
+        ],
+        "quotes": [
+            "Hyah!"
+        ],
+        "colorImages": [
+            "link1",
+            "link2",
+            "link3",
+            "link4"
+        ]
+    },
+    {
+        "name": "Roy",
+        "images": [
+            "royicon",
+            "roygiant"
+        ],
+        "smashAttacks": [
+            "Flame Sword",
+            "Power Slash",
+            "Whirlwind"
+        ],
+        "specialAbilities": [
+            "Flare Blade",
+            "Double-Edge Dance",
+            "Blazer",
+            "Parry"
+        ],
+        "colors": [
+            "Original",
+            "Gold",
+            "Green",
+            "Pink"
+        ],
+        "quotes":[
+            "I won't lose!"
+        ],
+        "colorImages":[
+        
+        ]
+    },
+    {
+        "name": "Mario",
+        "images": [
+            "marioicon",
+            "mariogiant"
+        ],
+        "smashAttacks": [
+            "Lead Headbutt",
+            "Fire Palm Heel",
+            "Break Spin"
+        ],
+        "specialAbilities": [
+            "Fireball",
+            "Cape",
+            "F.L.U.D.D.",
+            "Super Jump Punch"
+        ],
+        "colors": [
+            "Original",
+            "Wedding",
+            "Builder",
+            "Striped"
+        ],
+        "quotes": [
+            "Mama mia!",
+            "Here we gooooo!"
+        ],
+        "colorImages": [
+            "mario1",
+            "mario2",
+            "mario3",
+            "mario4"
+        ]
+    },
+    {
+        "name": "Pikachu",
+        "images": [
+            "pikachuicon",
+            "pikachugiant"
+        ],
+        "smashAttacks": [
+            "Electric Flower",
+            "Thunderbolt",
+            "Iron Tail"
+        ],
+        "specialAbilities": [
+            "Thunder Jolt",
+            "Skull Bash",
+            "Quick Attack",
+            "Thunder"
+        ],
+        "colors": [
+            "Original",
+            "Libre",
+            "Wizard",
+            "Backwards Hat"
+        ],
+        "quotes": [
+            "Pika pika",
+            "Pika-CHUUUUU"
+        ],
+        "colorImages": [
+            "pikachu1",
+            "pikachu2",
+            "pikachu3",
+            "pikachu4"
+        ]
+    },
+    {
+        "name": "Sonic",
+        "images": [
+            "sonicicon",
+            "sonicgiant"
+        ],
+        "smashAttacks": [
+            "Wind-up Punch",
+            "Split Kick",
+            "Short Spin Attack"
+        ],
+        "specialAbilities": [
+            "Homing Attack",
+            "Spring Jump",
+            "Spin Dash",
+            "Spin Charge"
+        ],
+        "colors": [
+            "Original",
+            "Shadow",
+            "Green",
+            "Silver"
+        ],
+        "quotes": [
+            "Sonic's the name speed's my game"
+        ],
+        "colorImages":[
+            "sonic1",
+            "sonic2",
+            "sonic3",
+            "sonic4"
+        ]
+    },
+    {
+        "name": "Sora",
+        "images": [
+            "soraicon",
+            "soragiant"
+        ],
+        "smashAttacks": [
+            "Power Strike",
+            "Light's Edge",
+            "Shockwave"
+        ],
+        "specialAbilities": [
+            "Magic",
+            "Sonic Blade",
+            "Counter Attack",
+            "Aerial Sweep"
+        ],
+        "colors": [
+            "Original",
+            "Valor",
+            "Wisdom",
+            "Ultimate"
+        ],
+        "quotes": [
+            "If it's your fate, then every step forward is a step closer to home"
+        ],
+        "colorImages":[
+            "sora1",
+            "sora2",
+            "sora3",
+            "sora4"
+        ]
+    }
+]
